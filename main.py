@@ -205,7 +205,7 @@ class MassReporter:
                     "descriptors"
                 ],
             },
-            'user_id': user_id,
+            'user_id': 1235300854823653386,
             'name': 'user',
         }
 
